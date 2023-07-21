@@ -1,7 +1,6 @@
 # Personal-Portfolio
 > This is personal portfolio website.
 
-![Portfolio](https://raw.github.com/Meri-MG/portfolio---react/master/src/assets/port.png)
 
 ## Built With
 
@@ -9,9 +8,11 @@
 - CSS
 - VS code
 
+- 
+
 ## Live Demo
 
-- [Live Demo](https://meri-mg-portfolio.netlify.app/)
+- [Live Demo](https://bilal-ased.netlify.app/)
 
 
 # Getting Started
@@ -28,9 +29,16 @@
 
 - Choose a folder in your local machine where you want this repository to be copied
 
+<<<<<<< HEAD
 - Clone this [repository](https://github.com/bilal-Ased/personal-porfolio.git)
+=======
+- Clone this [repository](https://github.com/bilal-Ased/personal-porfolio.git) to your local machine 
+- ```
+  git clone git@github.com:Bilal-ased/portfolio.git
+  ```
+>>>>>>> 45e265601a2f974c16cb85ef5a500b81bf60ce81
 
-- Navigate to `cd portfolio---react`  directory.
+- Navigate to `cd portfolio`  directory.
 
 - To install all the app dependencies on the command line run
 - ```
@@ -44,14 +52,18 @@
 
 ## Author
 
+<<<<<<< HEAD
 :man: **Bilal Mughal**
+=======
+:Man: **Bilal Mughal**
+>>>>>>> 45e265601a2f974c16cb85ef5a500b81bf60ce81
 
 - [GitHub](https://github.com/bilal-Ased)
 - [LinkedIn](https://www.linkedin.com/in/bilal-mughal-973b50279/)
 
 ## 🤝 Contributing
 - Contributions, issues, and feature requests are welcome!
-- Feel free to check the [issues page](https://github.com/Meri-MG/portfolio---react/issues).
+- Feel free to contribute to this repo.
 
 # Show your support
 Give a ⭐ if you like this project!
@@ -59,6 +71,10 @@ Give a ⭐ if you like this project!
 # Acknowledgments
 Thanks to [EGATOR](https://www.youtube.com/watch?v=G-Cr00UYokU&list=WL&index=55&t=1845s) tutorial!
 
+<<<<<<< HEAD
 Thanks to Meri-MG for the repo 
+=======
+Thanks to https://github.com/Meri-MG/portfolio---react for the repo 
+>>>>>>> 45e265601a2f974c16cb85ef5a500b81bf60ce81
 
 
