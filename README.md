@@ -28,10 +28,7 @@
 
 - Choose a folder in your local machine where you want this repository to be copied
 
-- Clone this [repository](https://github.com/Meri-MG/portfolio---react) to your local machine 
-- ```
-  git clone git@github.com:Meri-MG/portfolio---react.git
-  ```
+- Clone this [repository](https://github.com/bilal-Ased/personal-porfolio.git)
 
 - Navigate to `cd portfolio---react`  directory.
 
@@ -47,10 +44,10 @@
 
 ## Author
 
-:woman: **Meri Gogichashvili**
+:man: **Bilal Mughal**
 
-- [GitHub](https://github.com/Meri-MG)
-- [LinkedIn](https://www.linkedin.com/in/meri-gogichashvili/)
+- [GitHub](https://github.com/bilal-Ased)
+- [LinkedIn](https://www.linkedin.com/in/bilal-mughal-973b50279/)
 
 ## 🤝 Contributing
 - Contributions, issues, and feature requests are welcome!
@@ -61,3 +58,7 @@ Give a ⭐ if you like this project!
 
 # Acknowledgments
 Thanks to [EGATOR](https://www.youtube.com/watch?v=G-Cr00UYokU&list=WL&index=55&t=1845s) tutorial!
+
+Thanks to Meri-MG for the repo 
+
+
