@@ -1,13 +1,14 @@
 # Personal-Portfolio
 > This is personal portfolio website.
 
-![Portfolio](https://raw.github.com/Meri-MG/portfolio---react/master/src/assets/port.png)
 
 ## Built With
 
 - React
 - CSS
 - VS code
+
+- 
 
 ## Live Demo
 
@@ -61,6 +62,7 @@ Give a ⭐ if you like this project!
 
 # Acknowledgments
 Thanks to [EGATOR](https://www.youtube.com/watch?v=G-Cr00UYokU&list=WL&index=55&t=1845s) tutorial!
+
 Thanks to https://github.com/Meri-MG/portfolio---react for the repo 
 
 
