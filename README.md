@@ -35,7 +35,6 @@
 - ```
   git clone git@github.com:Bilal-ased/portfolio.git
   ```
->>>>>>> 45e265601a2f974c16cb85ef5a500b81bf60ce81
 
 - Navigate to `cd portfolio`  directory.
 
