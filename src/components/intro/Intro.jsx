@@ -1,7 +1,7 @@
 import React from 'react';
 import { FaAward } from 'react-icons/fa';
 import { VscFolderLibrary } from 'react-icons/vsc';
-import ME from '../../assets/me.jpg';
+import ME from '../../assets/bilal.jpeg';
 import './intro.css';
 
 const Intro = () => {
@@ -28,7 +28,7 @@ const Intro = () => {
               <small>20+ Completed Projects</small>
             </article>
           </div>
-          <p>I’ve spent the last several months in a remote environment, working with HTML, CSS, JavaScript, building everything from landing pages to APIs. My experience as a teacher in an international school helped me collaborate with fellow developers from all over the world. Additionally, working with kids isn’t an easy task, however, it has helped me become efficient, productive, and fast even in a very stressful environment, which is an important skill in the tech industry.</p>
+          <p>Highly motivated and experienced software engineer with 1+ years of experience in developing and maintaining software for a large telecommunications companies.. I have a strong understanding of software development methodologies and tool.I work closely with a team of engineers to ensure that our applications meet the needs of our customers.</p>
           <a href="#contact" className="btn btn-primary">Let's Talk</a>
         </div>
       </div>

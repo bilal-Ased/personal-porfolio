@@ -16,8 +16,8 @@ const Testimonials = () => {
     {
       id: 1,
       link: 'https://www.linkedin.com/in/uzairali19/',
-      name: 'Uzair Ali',
-      role: 'Full-Stack Web Developer. JavaScript | Rails | React | Redux. Improving open-source projects, one commit at a time.',
+      name: 'Ally Hasham',
+      role: 'Data Analyst. JavaScript | Rails | React | Redux. Improving open-source projects, one commit at a time.',
       test: 'As a developer and a problem solver, I think Meri is a great collaborative partner to have. I met Meri in some basic javascript & react projects and since then she has drastically progressed in her understanding of the development process. She always has a professional environment and has good audio and video quality which makes it easier to communicate with her.',
     },
     {
