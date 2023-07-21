@@ -2,12 +2,14 @@
 > This is personal portfolio website.
 
 
+
 ## Built With
 
 - React
 - CSS
 - VS code
 
+![Portfolio](https://github.com/bilal-Ased/personal-porfolio/blob/main/src/assets/port.png)
 - 
 
 ## Live Demo
