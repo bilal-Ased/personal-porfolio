@@ -11,7 +11,7 @@
 
 ## Live Demo
 
-- [Live Demo](https://meri-mg-portfolio.netlify.app/)
+- [Live Demo](https://bilal-ased.netlify.app/)
 
 
 # Getting Started
@@ -28,12 +28,12 @@
 
 - Choose a folder in your local machine where you want this repository to be copied
 
-- Clone this [repository](https://github.com/Meri-MG/portfolio---react) to your local machine 
+- Clone this [repository](https://github.com/bilal-Ased/personal-porfolio.git) to your local machine 
 - ```
-  git clone git@github.com:Meri-MG/portfolio---react.git
+  git clone git@github.com:Bilal-ased/portfolio.git
   ```
 
-- Navigate to `cd portfolio---react`  directory.
+- Navigate to `cd portfolio`  directory.
 
 - To install all the app dependencies on the command line run
 - ```
@@ -47,17 +47,20 @@
 
 ## Author
 
-:woman: **Meri Gogichashvili**
+:Man: **Bilal Mughal**
 
-- [GitHub](https://github.com/Meri-MG)
-- [LinkedIn](https://www.linkedin.com/in/meri-gogichashvili/)
+- [GitHub](https://github.com/bilal-Ased)
+- [LinkedIn](https://www.linkedin.com/in/bilal-mughal-973b50279/)
 
 ## 🤝 Contributing
 - Contributions, issues, and feature requests are welcome!
-- Feel free to check the [issues page](https://github.com/Meri-MG/portfolio---react/issues).
+- Feel free to contribute to this repo.
 
 # Show your support
 Give a ⭐ if you like this project!
 
 # Acknowledgments
 Thanks to [EGATOR](https://www.youtube.com/watch?v=G-Cr00UYokU&list=WL&index=55&t=1845s) tutorial!
+Thanks to https://github.com/Meri-MG/portfolio---react for the repo 
+
+
