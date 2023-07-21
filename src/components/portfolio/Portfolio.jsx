@@ -12,21 +12,21 @@ const Portfolio = () => {
   const soloProjects = [
     {
       id: 1,
-      title: 'Bookstore',
+      title: 'Laravel CRM',
       img: IMG1,
       description:
-        'BookStore app that allows users to store books and update progress',
-      technologies: 'React | Redux | Ruby on Rails',
+        'A Laravel Filament customer relationship managment system',
+      technologies: 'Laravel | Filament | LiveWire | MYSQL',
       link: 'https://melodic-boba-111583.netlify.app/',
       github: 'https://github.com/Meri-MG/bookstore---react',
     },
     {
       id: 2,
-      title: 'FakeStore',
+      title: 'LaraGigs',
       img: IMG4,
       description:
-        'FakeStore app that provides information about available products and their details',
-      technologies: 'React | Redux',
+        'A Laravel application for gigs used to post and view jobs',
+      technologies: 'Laravel | MYSQL',
       link: 'https://fakestore-metrics.netlify.app/',
       github: 'https://github.com/Meri-MG/Fakestore---react',
     },
